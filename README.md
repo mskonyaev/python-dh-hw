@@ -25,7 +25,7 @@
 №|Описание|Ссылка на работу
 ---|:---:|---:
 __1__|HW1 - пингвины и прочее|[Ссылка на дз](https://github.com/mskonyaev/python-dh-hw/blob/master/HW1.ipynb)
-__2__||
+__2__|HW2 - файлы и итерации|[Ссылка на дз](https://github.com/mskonyaev/python-dh-hw/blob/master/HW2.ipynb)
 __3__||
 
 ![](https://pp.userapi.com/c849120/v849120007/76865/SqcE-Um1kto.jpg)
